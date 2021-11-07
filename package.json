@@ -5,7 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "watch": "ng build --watch --configuration development"
+    "watch": "ng build --watch --configuration development",
+    "deploy:ghdocs": "ng build --prod --output-path docs --base-href /HealthyEatsLandingPage/"
   },
   "private": true,
   "dependencies": {
