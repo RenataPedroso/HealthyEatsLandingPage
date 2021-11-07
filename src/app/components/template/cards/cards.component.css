@@ -1,0 +1,35 @@
+.cards{
+    padding: 3rem 0rem 5rem 2rem;
+    background-image: url("/assets/img/bg2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 100%;
+}
+.cards h1{
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 2%;
+    color: #04305b;
+}
+.card{
+    display: inline-block;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.card:hover{
+    width: 19rem !important;
+    transition-duration: 300ms;
+}
+.cards h1{
+    color: ivory;
+}
+
+@media (min-width: 1410px) and (max-width: 1600px){
+    .card{
+        width: 16rem !important;
+    }
+}
+

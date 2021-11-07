@@ -1,0 +1,30 @@
+.carousel{
+    position: relative;
+    padding: 3% 15% 0% 15%;
+}
+.title{
+    text-align: center;
+    padding-top: 5%;
+}
+.title h1{
+    font-size: 67px;
+    color: #60abc2;
+}
+.button{
+    position: relative;
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+}
+.button button{
+    width: 400px;
+    background-color: #43aada;
+    color: white;
+}
+
+.button button:hover{
+    transition: all 400ms ease;
+    color:#43aada;
+    border-color: #43aada;
+    background-color: white;
+}

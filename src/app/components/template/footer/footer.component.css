@@ -1,0 +1,29 @@
+.footer{
+    height: 150px;
+    background-color: #333636;
+}
+
+.button{
+    border:none;
+    background-color: #ffffff00;
+    margin: 0.5%;
+}
+
+.imgButton{
+    width: 2rem; 
+}
+
+.footer h3{
+    color: white;
+    padding: 1% 0% 0% 1%;
+}
+
+.dev{
+    display: flex;
+    float: right;
+    margin-right: 3%;
+}
+
+.dev a{
+    font-size: 18px;
+}

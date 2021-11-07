@@ -1,0 +1,24 @@
+.logo{
+    height: 2.5rem;
+}
+
+.navbar-toggler{
+    border: none;
+    background-color: white;
+    position: fixed relative;
+}
+
+.navbar-toggler-icon{
+    color: #5ab5e0 !important;
+}
+.navbar-toggler:hover{
+    background-color: #c4e4f480;
+}
+
+.container-fluid{
+    position: relative;
+}
+
+.navbar{
+    height: 3.5rem;
+}

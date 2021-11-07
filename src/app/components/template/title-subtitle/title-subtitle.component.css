@@ -1,0 +1,20 @@
+.titleSubtitle{
+    text-align: center;
+    padding: 5% 10% 0% 10%;
+    margin-top: 4%;
+}
+
+.titleSubtitle h1{
+    font-size: 3.3rem;
+    font-family: 'Mochiy Pop One', sans-serif;
+    padding-bottom: 5%;
+    color: #025a9a;
+    font-stretch: expanded;
+}
+.titleSubtitle h3{
+    margin-bottom: 0%;
+    font-size: 1.8rem;
+    color: #025a9aeb;
+}
+
+
