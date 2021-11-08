@@ -1,5 +1,5 @@
 .body{
-    background-image: url("/assets/img/bg5.png");
+    background-image: url("bg5.png");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
