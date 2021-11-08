@@ -1,6 +1,5 @@
 .cards{
     padding: 3rem 0rem 5rem 2rem;
-    background-image: url("/assets/img/bg2.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -24,7 +23,7 @@
     transition-duration: 300ms;
 }
 .cards h1{
-    color: ivory;
+    color: #04305b;
 }
 
 @media (min-width: 1410px) and (max-width: 1600px){

@@ -1,20 +1,20 @@
 .button{
-    margin-bottom: 15em;
+    padding-bottom: 15em;
 }
 .button button{
     position: relative;
     width: 500px;
     height: 70px;
-    background-color: #43aada;
-    color: white;
     left: 36em;
     margin-top: 1em;
     margin-bottom: 20px;
+    color:#43aada;
+    border-color: #43aada;
+    background-color: white;
 }
 
 .button button:hover{
     transition: all 400ms ease;
-    color:#43aada;
-    border-color: #43aada;
-    background-color: white;
+    background-color: #43aada;
+    color: white;
 }
